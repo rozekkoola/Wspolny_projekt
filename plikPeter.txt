@@ -1,2 +1,4 @@
 Zmiana tekstu Pliku Piotra. -Ola
 - Piotr napisał: tekst pierwszego commitu.
+Trzecia linijka.
+
