@@ -1,1 +1,2 @@
-tekst pierwszego commitu.
+Zmiana tekstu Pliku Piotra. -Ola
+- Piotr napisał: tekst pierwszego commitu.
