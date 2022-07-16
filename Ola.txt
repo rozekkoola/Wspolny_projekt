@@ -1,1 +1,3 @@
+
+Nowa linjka.
 Mam na imię Ola. To jest plik przykładowy do zmian.
